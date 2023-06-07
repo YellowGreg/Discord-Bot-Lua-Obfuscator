@@ -36,3 +36,4 @@ Make sure you have Python and `pip` installed on your system before running thes
 
 # Proof
 ![image](https://github.com/YellowGreg/Discord-Bot-Lua-Obfuscator/assets/101320329/7e18fa18-f96a-4444-a21f-fbb6a3b256b9)
+
