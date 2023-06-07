@@ -1,4 +1,5 @@
 --// Obfuscator Made By AdvanceFalling Team \\--
+-- YellowGreg Mostly made all of this.
 
 local AF = [[
 --SCRIPT
