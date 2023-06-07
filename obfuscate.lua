@@ -1,4 +1,4 @@
---// Made By AdvanceFalling Team \\--
+--// Obfuscator Made By AdvanceFalling Team \\--
 
 local AF = [[
 --SCRIPT
