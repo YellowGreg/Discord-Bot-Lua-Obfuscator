@@ -1,4 +1,7 @@
-# Discord-Bot-Lua-Obfuscator
+# NOTE!!
+- This does work and i have tested it, its just that you have not download package.
+
+# Info
 - Change the `.env.example` to `.env` and add your discord token
 - Change the `0000000` from the `channel_Id` with your own ID
 # Installation
