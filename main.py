@@ -1,3 +1,8 @@
+# Credit yunglean_ or yunglean4171 for this code.
+# His profile link: https://github.com/yunglean4171
+
+# Modify by YellowGreg alittle.
+
 import discord
 from discord.ext import commands
 import os
