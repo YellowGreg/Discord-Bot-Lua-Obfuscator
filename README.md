@@ -1,10 +1,15 @@
 # NOTE!!
 - This code does work and I have tested it successfully.
+- Also if you dont want to read all this instruction below use the original:
 
-# Info
+➤ [Original Discord Bot Lua obfuscator](https://github.com/yunglean4171/discord-bot-lua-obfuscator)
+
+
+
+# Installation
 - Change the `.env.example` to `.env` and add your discord token
 - Change the `0000000` from the `channel_Id` with your own ID
-# Installation
+
 1. Open your command prompt or terminal.
 2. Navigate to the directory where your Python project is located (if necessary).
 3. Run the following command to install the packages:
@@ -27,3 +32,7 @@ Make sure you have Python and `pip` installed on your system before running thes
 3. To access the Secrets feature, click on the padlock icon located in the left sidebar of your Replit project.
 4. For the name of the environment variable, enter **TOKEN**. This is important because the Python code in your project uses `os.getenv('TOKEN')` to access the token value. However, if you prefer a different name for your environment variable, you can choose one that suits your preference.
 5. In the value field of the environment variable, you should insert your Discord bot token. This token is essential for your bot to authenticate and function correctly on Discord.
+
+
+# Proof
+![image](https://github.com/YellowGreg/Discord-Bot-Lua-Obfuscator/assets/101320329/7d3a4747-ea6c-4a04-a7ba-0db8b9e3e9e5)
