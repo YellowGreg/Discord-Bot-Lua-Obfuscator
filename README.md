@@ -8,7 +8,7 @@
 ```shell
 pip install discord discord.ext.commands
 ```
-This command will install both the `discord and` `discord.ext.commands` packages simultaneously.
+This command will install both the `discord` and `discord.ext.commands` packages simultaneously.
 
 4. Run the following command to install the remaining packages:
 ```shell
