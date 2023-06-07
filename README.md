@@ -1,5 +1,5 @@
 # NOTE!!
-- This does work and i have tested it, its just that you have not download package.
+- This code does work and I have tested it successfully.
 
 # Info
 - Change the `.env.example` to `.env` and add your discord token
