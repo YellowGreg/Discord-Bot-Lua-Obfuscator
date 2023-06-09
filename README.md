@@ -1,5 +1,5 @@
 # NOTE!!
-- This is not a original, but its my own lua obfuscator and i just want to share it.
+- This is not a original the `main.py` is not mine, but its my own lua obfuscator `obfuscate.lua` and i just want to share it.
 - This code does work and I have tested it successfully.
 - Also if you dont want to read all this instruction below use the original:
 
